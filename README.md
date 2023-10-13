@@ -69,7 +69,7 @@
       ]
    }
    ```
-  - requests.json:
+- requests.json:
      ```json
      {
         "requests": [
